@@ -79,7 +79,7 @@ import "../styles.css";
         "img/banner.png",
       title: "Banner Animado",
       description: "Individual",
-      link: "",
+      link: "http://193.137.7.33/~aluno26366/bannerAnimado/",
     },
     {
       imgSrc:
